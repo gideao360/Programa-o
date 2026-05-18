@@ -16,8 +16,8 @@ Criar algo inovador para ajudar alunos
 [Serão definidas nas aulas de Programação Back-end]
 ## Riscos iniciais
 1. Complicação na aplicação dos papéis do time
-2. 
-3. ...
+2. Adaptação do usuario ao sistema
+3. Erros do aplicativo
 ## Cronograma básico (semanas)
 - Semana 1: documentação, wireframes, Kanban
 - Semana 2: protótipo Figma
@@ -31,12 +31,12 @@ Criar algo inovador para ajudar alunos
 - Semana 10: screenshots
 - Semana 11: pitch final
 ## Integrantes e papéis
-| Nome | Papel (Inovação) | Papel (Back-end) |
-|------|------------------|------------------|
-| ... | Documentação/Validação | API/Banco |
-| ... | Prototipagem | Front-end (se houver) |
-| ... | ... | ... |
+|Fabricio|(Back-end)|
+|Vinicius|(Documentação)
+|victor da Silva|(product magner)|
+|Gideão|(scrum master)|
+|Kelvin|(Front-end)
 ## Links úteis
 - **Kanban (Trello):** [link]
 - **Protótipo (Figma):** [a preencher]
-- **Repositório:** [link]
+- **Repositório:** [https://github.com/Vlnlxz/Programa-o.git]
